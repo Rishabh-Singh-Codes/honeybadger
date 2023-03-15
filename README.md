@@ -1,1 +1,1 @@
-# honeybadger
+# Slack App - Spam Notification
